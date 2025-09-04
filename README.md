@@ -23,13 +23,13 @@ Desarrollar e implementar una plataforma digital de gamificación académica par
 ## 💻 Desarrollo del Proyecto  
 
 En el código que estamos construyendo en este repositorio, vamos a desarrollar nuestro proyecto integrador.  
-Inicialmente vamos a trabajar únicamente con **HTML** y **CSS**.
+Inicialmente vamos a trabajar con  **HTML**,**CSS**,**JAVASCRIPT**,**TAILWIND**.
 
 ---
 
 ## ⚙️ Características  
 
-- Desarrollado inicialmente solo con HTML y CSS.  
+- Desarrollado inicialmente solo con **HTML**,**CSS**,**JAVASCRIPT**,**TAILWIND**..  
 - Se aplican estructuras semánticas utilizando correctamente las etiquetas HTML5.  
 - Se destaca el uso de la metodología **BEM** para nombrar clases en CSS.  
 - Organización de archivos y carpetas modulares para seguir buenas prácticas.
@@ -40,13 +40,13 @@ Inicialmente vamos a trabajar únicamente con **HTML** y **CSS**.
 
 ### Páginas Desarrolladas  
 
-- **Inicio** (`index.html`): Página principal con secciones de hero, características principales del proyecto y llamada a la acción para involucrar visitantes.  
-- **Nuestro Proyecto** (`acerca.html`): Información detallada sobre el proyecto, objetivos, propósito, historia del desarrollo y visión a futuro.  
-- **Nuestro Equipo** (`nosotros.html`): Presentación de los miembros del equipo, roles, experiencia, biografías y contribuciones al proyecto.  
+- **Index** (`index.html`): Página principal con secciones de hero, características principales del proyecto y llamada a la acción para involucrar visitantes.  
+- **OurProject** (`acerca.html`): Información detallada sobre el proyecto, objetivos, propósito, historia del desarrollo y visión a futuro.  
+- **OurTeam** (`nosotros.html`): Presentación de los miembros del equipo, roles, experiencia, biografías y contribuciones al proyecto.  
 - **Multimedia** (`multimedia.html`): Galería de contenido visual y audiovisual relacionado con el proyecto: imágenes y videos.  
-- **Contáctenos** (`contactenos.html`): Formulario de contacto, información de contacto con preferencias de privacidad y calificación de la APP.  
+- **ContactUs** (`contactenos.html`): Formulario de contacto, información de contacto con preferencias de privacidad y calificación de la APP.  
 - **Login** (`login.html`): Formulario de inicio de sesión para usuarios registrados, con campos de usuario/email y contraseña, opciones de recuperación de cuenta.  
-- **Registro** (`registro.html`): Formulario de registro para nuevos usuarios, con campos de información personal y creación de credenciales.
+- **Registration** (`registro.html`): Formulario de registro para nuevos usuarios, con campos de información personal y creación de credenciales.
 
 ---
 
