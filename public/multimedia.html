@@ -155,6 +155,29 @@
 
 </section>
 
+<!-- ============================= -->
+<!-- 🎞️ Sección de Video Parallax -->
+<!-- ============================= -->
+<section class="relative h-[80vh] overflow-hidden flex items-center justify-center">
+  <!-- Video de fondo -->
+  <video id="bgVideo" autoplay muted loop playsinline
+         class="absolute top-0 left-0 w-auto min-w-full min-h-full object-cover opacity-80">
+    <source src="../src/assets/videos-multimedia/" type="video/mp4" />
+    Tu navegador no soporta videos HTML5.
+  </video>
+
+  <!-- Capa semitransparente -->
+  <div class="absolute inset-0 bg-[#714C3A]/60"></div>
+
+  <!-- Texto sobre el video -->
+  <div class="relative z-10 text-center text-white px-6 py-12 animate-on-scroll opacity-0 translate-y-10 transition-all duration-700">
+    <h2 class="text-4xl font-bold mb-4">Explora el Fuego del Conocimiento</h2>
+    <p class="text-lg max-w-2xl mx-auto">
+      Sumérgete en la energía del volcán lúdico: videos inspiradores sobre tecnología, programación y creatividad digital.
+    </p>
+  </div>
+</section>
+
 <!-- Footer -->
 
 <footer class="border-gray-200 bg-[#714C3A] dark:bg-[#5a3a2e] dark:border-gray-700 py-4 w-full">
